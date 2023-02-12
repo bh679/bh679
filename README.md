@@ -12,9 +12,9 @@
 [DoGPT - GPT for talking to Dogs](https://github.com/bh679/DoGPT) <br />
 
 ## Frquently Used Projects
-[BrennanHattons Unity Toools](https://github.com/bh679/Unity-Tools) <br />
-[BrennanHatton PUN Discord Webhook](https://github.com/bh679/Unity-Discord-Webhook-Tools) <br />
-[BrennanHatton VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) <br />
+[Unity Toools](https://github.com/bh679/Unity-Tools) <br />
+[PUN Discord Webhook](https://github.com/bh679/Unity-Discord-Webhook-Tools) <br />
+[VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) <br />
 
 ## Templates
 [Mutliplayer VR Game Jam Template 2023](https://github.com/bh679/Mutliplayer-VR-Game-Jam-Template-2023) <br />
