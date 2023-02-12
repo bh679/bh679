@@ -18,7 +18,7 @@
 
 ## Templates
 [Mutliplayer VR Game Jam Template 2023](https://github.com/bh679/Mutliplayer-VR-Game-Jam-Template-2023) <br />
-
+[VR MMO AI Template](https://github.com/bh679/VR-MMO-AI-Template) <br />
 <!--
 **bh679/bh679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
