@@ -13,7 +13,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 [Holy Burger](https://github.com/NahedAlvarez/GoblalGameJam) <br />
 [Bouncer](https://github.com/bh679/Bouncer-master) <br />
 
-## Frequently Used Projects
+## Project I Frequently Use
 [Unity Tools](https://github.com/bh679/Unity-Tools) <br />
 [PUN Discord Webhook](https://github.com/bh679/Unity-Discord-Webhook-Tools) <br />
 [VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) <br />
