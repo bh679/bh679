@@ -1,4 +1,4 @@
-Hey, welcome! I'm Brennan, Co-Founder & CTO of [https://equalreality.com](Equal Reality).<br />
+Hey, welcome! I'm Brennan, Co-Founder & CTO of [Equal Reality]([Equal Reality](https://equalreality.com)).<br />
 In my spare time I make games and projects here.
  <br />
 Bio work in progress - links most for helping me find my own projects. <br />
