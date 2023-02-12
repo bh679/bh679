@@ -1,4 +1,4 @@
-Hey, welcome! I'm Brennan Hatton, <br />
+I'm Brennan Hatton, <br />
 Co-Founder & CTO of [Equal Reality](https://equalreality.com).<br />
 VR/AI Dev & Tinker, Silicon Valley & Wollongong Nomad.<br />
 
