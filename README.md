@@ -1,10 +1,3 @@
- - Games 🎮
- - Virtual Reality 🤿
- - Metaverse 🫂
- - AI 🖧
- - Unity Tools 🧊
-
-
 ## Games & Apps
 [Dungeon Train](https://github.com/bh679/Dungeon-Trian-2022) <br />
 [Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) <br />
@@ -12,7 +5,7 @@
 [DoGPT - GPT for talking to Dogs](https://github.com/bh679/DoGPT) <br />
 
 ## Frquently Used Projects
-[Unity Toools](https://github.com/bh679/Unity-Tools) <br />
+[Unity Tools](https://github.com/bh679/Unity-Tools) <br />
 [PUN Discord Webhook](https://github.com/bh679/Unity-Discord-Webhook-Tools) <br />
 [VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) <br />
 
