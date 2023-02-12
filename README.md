@@ -1,7 +1,10 @@
-Hey, welcome! I'm Brennan, Co-Founder & CTO of [Equal Reality](https://equalreality.com).<br />
-In my spare time I make games and projects here.
- <br />
+<p>Hey, welcome! I'm Brennan Hatton, <br />
+Co-Founder & CTO of [Equal Reality](https://equalreality.com).<br />
+VR/AI Dev & Tinker, Silicon Valley & Wollongong Nomad.<br />
+
+In my spare time I make games and projects here. <br />
 Bio work in progress - links most for helping me find my own projects. <br />
+</p>
 
 ## Games & Apps
 [Dungeon Train](https://github.com/bh679/Dungeon-Trian-2022) <br />
