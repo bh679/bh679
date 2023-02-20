@@ -2,9 +2,9 @@
 A list of my favourite Unity Assets\
 
 ## Asset Packs I made
- - [BrennanHattons Unity Tools](https://github.com/bh679/Unity-Tools) <br />
- - [BrennanHatton PUN Discord Webhook](https://github.com/bh679/Unity-Discord-Webhook-Tools) <br />
- - [BrennanHatton VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) <br />
+ - [BrennanHattons Unity Tools](https://github.com/bh679/Unity-Tools) Generic Unity Scripts and OpenAI Stuff
+ - [BrennanHatton VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) Useful scripts for metaverse projects using VRIF & PUN
+ - [BrennanHatton PUN Discord Webhook](https://github.com/bh679/Unity-Discord-Webhook-Tools) 
 
 ## Everytime
  - [Script Inspector 3](https://assetstore.unity.com/packages/tools/visual-scripting/script-inspector-3-3535) - IDE inside inspector
