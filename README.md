@@ -1,3 +1,5 @@
+![Screenshot 2023-02-20 200636](https://user-images.githubusercontent.com/2542558/220061311-6e387d9a-a9f6-4756-89d6-7e4f03cea387.png)
+
 I'm Brennan Hatton, <br />
 Co-Founder & CTO of [Equal Reality](https://equalreality.com).<br />
 VR/AI Dev & Tinker, Silicon Valley & Wollongong Dev-Nomad.<br />
