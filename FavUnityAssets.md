@@ -11,15 +11,15 @@ A list of my favourite Unity Assets\
 
 ## Metaverse Stuff 
 ([See Metaverse Template](https://github.com/bh679/Mutliplayer-VR-Game-Jam-Template-2023))<br />
- - [VRIF](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066)<br />
- - [PUN 2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)<br />
- - [Photon Voice 2 - 2.50](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518)<br />
- - [Parallel Sync 1.5.1](https://github.com/VeriorPies/ParrelSync)  <br />
- - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290)
+ - [VRIF](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066)<br /> Bes thing for any VR project
+ - [PUN 2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)<br /> Mutliplayer
+ - [Photon Voice 2 - 2.50](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518)<br /> Voice chat
+ - [Parallel Sync 1.5.1](https://github.com/VeriorPies/ParrelSync)  <br /> Test mutliplayer in mutliple editors
+ - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) VR embodiment
 
 ## Libraries
- - [CleanFlatIcon](https://assetstore.unity.com/packages/2d/gui/icons/clean-vector-icons-132084)
- - [RPG Character Mecanim Animation Pack](https://assetstore.unity.com/packages/3d/animations/rpg-character-mecanim-animation-pack-63772)
+ - [CleanFlatIcon](https://assetstore.unity.com/packages/2d/gui/icons/clean-vector-icons-132084) All the icons youll need
+ - [RPG Character Mecanim Animation Pack](https://assetstore.unity.com/packages/3d/animations/rpg-character-mecanim-animation-pack-63772) Animation (works with Synty characters)
 
 ## 3D Assets
  - Synty Low Poly Dungeon
@@ -27,4 +27,4 @@ A list of my favourite Unity Assets\
 
 
 ## Assets I want an excuse to buy
- - All of Synty
+ - All of Synty low poly assets.
