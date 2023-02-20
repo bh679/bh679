@@ -11,10 +11,10 @@ A list of my favourite Unity Assets\
 
 ## Metaverse Stuff 
 ([See Metaverse Template](https://github.com/bh679/Mutliplayer-VR-Game-Jam-Template-2023))<br />
- - [VRIF](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066)<br /> Bes thing for any VR project
- - [PUN 2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)<br /> Mutliplayer
- - [Photon Voice 2 - 2.50](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518)<br /> Voice chat
- - [Parallel Sync 1.5.1](https://github.com/VeriorPies/ParrelSync)  <br /> Test mutliplayer in mutliple editors
+ - [VRIF](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066)< Best thing for any VR project
+ - [PUN 2](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922) Mutliplayer
+ - [Photon Voice 2 - 2.50](https://assetstore.unity.com/packages/tools/audio/photon-voice-2-130518) Voice chat
+ - [Parallel Sync 1.5.1](https://github.com/VeriorPies/ParrelSync) Test mutliplayer in mutliple editors
  - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290) VR embodiment
 
 ## Libraries
