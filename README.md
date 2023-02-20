@@ -11,7 +11,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 [DoGPT - GPT for talking to Dogs](https://github.com/bh679/DoGPT) <br />
 [Trapped in Virtual Insanity Multiplayer AI Insult Shooter](https://github.com/bh679/GGJ23---Trapped-in-Virtual-Insanity-Multiplayer-AI-Insult-Shooter) <br />
 
-#### Super Old Projects
+#### Older Projects
 [Holy Burger](https://github.com/NahedAlvarez/GoblalGameJam) - 2020<br />
 [Bouncer](https://github.com/bh679/Bouncer-master) - 2007-2010<br />
 [Old Game Maker Games Compilation](https://github.com/bh679/Game-Maker) - 2007-2010
