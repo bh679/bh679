@@ -10,7 +10,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 [Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) <br />
 [DoGPT - GPT for talking to Dogs](https://github.com/bh679/DoGPT) <br />
 [Australian Dream - Hoon](https://github.com/bh679/Australian-Dream)<br />
-[Hot House](https://github.com/bh679/HotHouse)<br /> - 
+[Hot House](https://github.com/bh679/HotHouse)<br />
 [Толк](https://github.com/bh679/tonk/blob/main/README.md) - The game on cognative biases<br />
 [Trapped in Virtual Insanity Multiplayer AI Insult Shooter](https://github.com/bh679/GGJ23---Trapped-in-Virtual-Insanity-Multiplayer-AI-Insult-Shooter) <br />
 
