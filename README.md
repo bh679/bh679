@@ -7,7 +7,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 
 ## Games & Apps
 [Dungeon Train](https://github.com/bh679/Dungeon-Trian-2022) <br />
-[Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) <br />
+[Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) - A VR murder mystery party game where the AI decides what happened and who is guilty!<br />
 [DoGPT - GPT for talking to Dogs](https://github.com/bh679/DoGPT) <br />
 [Australian Dream - Hoon](https://github.com/bh679/Australian-Dream)<br />
 [Hot House](https://github.com/bh679/HotHouse) - An short narrative based VR escaperoom.<br />
