@@ -13,6 +13,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 [Hot House](https://github.com/bh679/HotHouse) - An short narrative based VR escaperoom.<br />
 [Толк](https://github.com/bh679/tonk/blob/main/README.md) - The game about congative bias and logical fallacies<br />
 [Trapped in Virtual Insanity Multiplayer AI Insult Shooter](https://github.com/bh679/GGJ23---Trapped-in-Virtual-Insanity-Multiplayer-AI-Insult-Shooter) <br />
+[AI-Judge-Simulator](https://github.com/bh679/AI-Judge-Simulator) - As a criminal lawyer, convince the ai judge that you should win the case and your client is innocent or opposing is guilty. 
 
 ## Unity Packages
 [Unity Tools](https://github.com/bh679/Unity-Tools) <br />
@@ -21,6 +22,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 <i>(see my [Fav Unity Packages](https://github.com/bh679/bh679/blob/main/FavUnityAssets.md))</i>
 
 ## Templates
+[Open Souce Unity Project Template](https://github.com/bh679/Unity-Project-Template/blob/main/README.md) <br />
 [Mutliplayer VR Game Jam Template 2023](https://github.com/bh679/Mutliplayer-VR-Game-Jam-Template-2023) <br />
 [VR MMO AI Template](https://github.com/bh679/VR-MMO-AI-Template) <br />
 
