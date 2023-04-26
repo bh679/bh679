@@ -10,7 +10,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 [Dungeon Train](https://github.com/bh679/Dungeon-Trian-2022) <br />
 [Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) - A VR murder mystery party game where the AI decides what happened and who is guilty!<br />
 [DoGPT - GPT for talking to Dogs](https://github.com/bh679/DoGPT) <br />
-[Australian Dream - Hoon](https://github.com/bh679/Australian-Dream)<br /> - A Mobile Game for Hoons March 2023 Indie Punk Album Launch - Australian Dream. 
+[Australian Dream - Hoon](https://github.com/bh679/Australian-Dream) - A Mobile Game for Hoons March 2023 Indie Punk Album Launch, Australian Dream.<br />  
 [Hot House](https://github.com/bh679/HotHouse) - An short narrative based VR escaperoom.<br />
 [Толк](https://github.com/bh679/tonk/blob/main/README.md) - The game about congative bias and logical fallacies<br />
 [Trapped in Virtual Insanity Multiplayer AI Insult Shooter](https://github.com/bh679/GGJ23---Trapped-in-Virtual-Insanity-Multiplayer-AI-Insult-Shooter) <br />
