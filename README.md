@@ -6,7 +6,7 @@ In my spare time I make games and projects here. <br />
 Bio work in progress - links most for helping me find my own projects. <br />
 
 ## Games & Apps
-[JudgeGPT](https://github.com/bh679/JudgeGPT) - AI Legal System, The Game 
+[JudgeGPT](https://github.com/bh679/JudgeGPT) - AI Legal System, The Game <br />
 [MindfulAI](https://github.com/bh679/MindfulAI) - A voice powered AI app that brings in-animate objects to life. <br />
 [Dungeon Train](https://github.com/bh679/Dungeon-Trian-2022) <br />
 [Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) - A VR murder mystery party game where the AI decides what happened and who is guilty!<br />
