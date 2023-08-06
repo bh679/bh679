@@ -6,6 +6,7 @@ In my spare time I make games and projects here. <br />
 Bio work in progress - links most for helping me find my own projects. <br />
 
 ## Games & Apps
+[JudgeGPT](https://github.com/bh679/JudgeGPT) - AI Legal System, The Game 
 [MindfulAI](https://github.com/bh679/MindfulAI) - A voice powered AI app that brings in-animate objects to life. <br />
 [Dungeon Train](https://github.com/bh679/Dungeon-Trian-2022) <br />
 [Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) - A VR murder mystery party game where the AI decides what happened and who is guilty!<br />
@@ -14,7 +15,10 @@ Bio work in progress - links most for helping me find my own projects. <br />
 [Hot House](https://github.com/bh679/HotHouse) - An short narrative based VR escaperoom.<br />
 [Толк](https://github.com/bh679/tonk/blob/main/README.md) - The game about congative bias and logical fallacies<br />
 [Trapped in Virtual Insanity Multiplayer AI Insult Shooter](https://github.com/bh679/GGJ23---Trapped-in-Virtual-Insanity-Multiplayer-AI-Insult-Shooter) <br />
-[AI-Judge-Simulator](https://github.com/bh679/AI-Judge-Simulator) - As a criminal lawyer, convince the ai judge that you should win the case and your client is innocent or opposing is guilty. 
+
+
+## Examples
+[Eleven Labs Text-To-Speech JAvascript Exmaple](https://github.com/bh679/ElevenLabs-Javascript-Example)
 
 ## Unity Packages
 [Unity Tools](https://github.com/bh679/Unity-Tools) <br />
