@@ -27,6 +27,7 @@ Bio work in progress - links most for helping me find my own projects. <br />
 [Unity GPT Tools](https://github.com/bh679/Unity-GPT-Tools)<br />
 [VRIF PUN Assets](https://github.com/bh679/VRIF-PUN-Assets) <br />
 [Unity Discord Webhook](https://github.com/bh679/Unity-Discord-Webhook-Tools) <br />
+[Scanning System](https://github.com/bh679/Unity-Item-Scanning-System) <br />
 <i>(see my [Fav Unity Packages](https://github.com/bh679/bh679/blob/main/FavUnityAssets.md))</i>
 
 ## Templates
