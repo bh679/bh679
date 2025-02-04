@@ -8,6 +8,9 @@ In my spare time I make games and projects here. <br />
 Bio work in progress - links most for helping me find my own projects. <br />
 
 ## Games & Apps
+[Brennans AI Murder Mystery Party Game](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game) - Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.<br />
+[Brennan's DM. Adventure Role-Playing Made Easy.](https://github.com/bh679/Brennan-s-DM.-Adventure-Role-Playing-Made-Easy.) - A DND Dungeon Master by Brennan Hatton, good for new players. One or more players. You tell it what you do, it does the rest.<br />
+[Hunters Of the Wine Dark Sea](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea) - An AI-powered hidden movement tabletop tile game.<br />
 [JudgeGPT](https://github.com/bh679/JudgeGPT) - AI Legal System, The Game <br />
 [Find My Phone](https://github.com/bh679/FindMyPhone) - A short story-driven exploration comedy. Your phone is missing. <br />
 [MindfulAI](https://github.com/bh679/MindfulAI) - A voice powered AI app that brings in-animate objects to life. <br />
