@@ -21,12 +21,11 @@ AI-generated weekly summaries of what I'm building — published every Monday.<b
 [weekly-blog](https://github.com/bh679/weekly-blog) - Weekly development blog — AI-generated summaries of Brennan's projects<br />
 [house-sitting-agent](https://github.com/bh679/house-sitting-agent) - Autonomous house-sitting agent<br />
 
-### AI-Built Apps
-[Narrative Chess](https://github.com/bh679/Narrative-Chess) - A narrative driven chess game built with Claude<br />
-[JudgeGPT-Client](https://github.com/bh679/JudgeGPT-Client) - JudgeGPT, the game where AI decides your fate in a courtroom<br />
+### AI Apps
 [MindfulAI](https://github.com/bh679/MindfulAI) - A voice powered AI app that brings inanimate objects to life.<br />
 
 ### AI Games
+[JudgeGPT-Client](https://github.com/bh679/JudgeGPT-Client) - JudgeGPT, the game where AI decides your fate in a courtroom<br />
 [Brennans AI Murder Mystery Party Game](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game) - Use AI to run a Murder Mystery Party game with your friends. 3-20 people.<br />
 [Brennan's DM. Adventure Role-Playing Made Easy.](https://github.com/bh679/Brennan-s-DM.-Adventure-Role-Playing-Made-Easy.) - A DND Dungeon Master by Brennan Hatton, good for new players.<br />
 [Hunters Of the Wine Dark Sea](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea) - An AI-powered hidden movement tabletop tile game.<br />
