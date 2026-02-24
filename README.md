@@ -7,20 +7,42 @@ VR/AI Dev & Tinker, Silicon Valley & Wollongong Dev-Nomad.<br />
 In my spare time I make games and projects here. <br />
 Bio work in progress - links most for helping me find my own projects. <br />
 
-## Games & Apps
-[Brennans AI Murder Mystery Party Game](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game) - Use Ai to run a Murder Mystery Party game with your friends. 3-20 people.<br />
-[Brennan's DM. Adventure Role-Playing Made Easy.](https://github.com/bh679/Brennan-s-DM.-Adventure-Role-Playing-Made-Easy.) - A DND Dungeon Master by Brennan Hatton, good for new players. One or more players. You tell it what you do, it does the rest.<br />
+## Weekly Dev Blog
+AI-generated weekly summaries of what I'm building — published every Monday.<br />
+[Read the blog →](https://github.com/bh679/weekly-blog/wiki)
+
+## AI Projects
+
+### Claude-Powered Tools & Agents
+[claude-templates](https://github.com/bh679/claude-templates) - Workflow standards, project templates, and Claude skills for Claude-powered projects<br />
+[AutoClaude](https://github.com/bh679/AutoClaude) - Overnight Claude Code task runner with credit monitoring and web dashboard<br />
+[LocalSubAgent](https://github.com/bh679/LocalSubAgent) - Claude Code skill: orchestrate local (Ollama) and cloud (Gemini) LLM sub-agents with trust scoring<br />
+[other-sub-agents](https://github.com/bh679/other-sub-agents) - Claude Code skill that delegates development sub-tasks to local and cloud LLMs<br />
+[weekly-blog](https://github.com/bh679/weekly-blog) - Weekly development blog — AI-generated summaries of Brennan's projects<br />
+[house-sitting-agent](https://github.com/bh679/house-sitting-agent) - Autonomous house-sitting agent<br />
+
+### AI-Built Apps
+[Narrative Chess](https://github.com/bh679/Narrative-Chess) - A narrative driven chess game built with Claude<br />
+[JudgeGPT-Client](https://github.com/bh679/JudgeGPT-Client) - JudgeGPT, the game where AI decides your fate in a courtroom<br />
+[MindfulAI](https://github.com/bh679/MindfulAI) - A voice powered AI app that brings inanimate objects to life.<br />
+
+### AI Games
+[Brennans AI Murder Mystery Party Game](https://github.com/bh679/Brennans-AI-Murder-Mystery-Party-Game) - Use AI to run a Murder Mystery Party game with your friends. 3-20 people.<br />
+[Brennan's DM. Adventure Role-Playing Made Easy.](https://github.com/bh679/Brennan-s-DM.-Adventure-Role-Playing-Made-Easy.) - A DND Dungeon Master by Brennan Hatton, good for new players.<br />
 [Hunters Of the Wine Dark Sea](https://github.com/bh679/Hunters-Of-The-Wine-Dark-Sea) - An AI-powered hidden movement tabletop tile game.<br />
-[JudgeGPT](https://github.com/bh679/JudgeGPT) - AI Legal System, The Game <br />
+[JudgeGPT](https://github.com/bh679/JudgeGPT) - AI Legal System, The Game<br />
+[Detective GPT](https://github.com/bh679/GGJ23-Detective-GPT) - A VR murder mystery party game where the AI decides what happened and who is guilty!<br />
+[Trapped in Virtual Insanity Multiplayer AI Insult Shooter](https://github.com/bh679/GGJ23---Trapped-in-Virtual-Insanity-Multiplayer-AI-Insult-Shooter)<br />
+
+## VR Games
 [Find My Phone](https://github.com/bh679/FindMyPhone) - A short story-driven exploration comedy. Your phone is missing. <br />
-[MindfulAI](https://github.com/bh679/MindfulAI) - A voice powered AI app that brings in-animate objects to life. <br />
 [Dungeon Train](https://github.com/bh679/Dungeon-Trian-2022) <br />
-[Detctive GPT](https://github.com/bh679/GGJ23-Detective-GPT) - A VR murder mystery party game where the AI decides what happened and who is guilty!<br />
 [DoGPT - GPT for talking to Dogs](https://github.com/bh679/DoGPT) <br />
-[Australian Dream - Hoon](https://github.com/bh679/Australian-Dream) - A Mobile Game for Hoons March 2023 Indie Punk Album Launch, Australian Dream.<br />  
 [Hot House](https://github.com/bh679/HotHouse) - An short narrative based VR escaperoom.<br />
-[Толк](https://github.com/bh679/tonk/blob/main/README.md) - The game about congative bias and logical fallacies<br />
-[Trapped in Virtual Insanity Multiplayer AI Insult Shooter](https://github.com/bh679/GGJ23---Trapped-in-Virtual-Insanity-Multiplayer-AI-Insult-Shooter) <br />
+
+## Web Games
+[Australian Dream - Hoon](https://github.com/bh679/Australian-Dream) - A Mobile Game for Hoons March 2023 Indie Punk Album Launch, Australian Dream.<br />
+[Толк](https://github.com/bh679/tonk/blob/main/README.md) - The game about cognitive bias and logical fallacies<br />
 
 
 ## Examples
